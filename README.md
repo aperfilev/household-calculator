@@ -27,10 +27,10 @@ I assume that this task does not necessitate a highly sophisticated algorithm fo
 ### Data Integrity: 
 How can we ensure the integrity of the input data, especially considering potential inconsistencies or errors in the addresses provided?
 
-###Scalability: 
+### Scalability: 
 How scalable is the current solution for processing a large volume of input data? Are there any potential bottlenecks or performance concerns?
 
-###Localization: 
+### Localization: 
 How does the solution handle addresses from different regions or countries with varying address formats and conventions?
 
 ## Usage
