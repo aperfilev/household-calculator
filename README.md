@@ -44,7 +44,7 @@ To use the `HouseholdCalculator`, follow these steps:
 Example usage:
 
 ```bash
-java HouseholdCalculator input.csv
+java -jar HouseholdCalculator.jar input.csv
 ```
 
 ## Dependencies
