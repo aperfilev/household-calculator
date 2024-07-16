@@ -1,0 +1,46 @@
+Input file: input.csv
+Current Households:
+Household: '123 Main St, Seattle, WA' has 4 total occupant(s)
+Adult occupant(s):
+	Alice, Smith, '123 Main St, Seattle, WA', 45
+	Dave, Smith, '123 Main St, Seattle, WA', 43
+	Ian, Smith, '123 Main St, Seattle, WA', 18
+
+Household: '234 2nd Ave, Tacoma, WA' has 2 total occupant(s)
+Adult occupant(s):
+	Eve, Smith, '234 2nd Ave, Tacoma, WA', 25
+	Bob, Williams, '234 2nd Ave, Tacoma, WA', 26
+
+Household: '234 2nd Ave, Seattle, WA' has 1 total occupant(s)
+Adult occupant(s):
+	Carol, Johnson, '234 2nd Ave, Seattle, WA', 67
+
+Household: '234 2nd Ave, Tacoma, FL' has 1 total occupant(s)
+Adult occupant(s):
+	Frank, Jones, '234 2nd Ave, Tacoma, FL', 23
+
+Household: '345 3rd Blvd Apt 200, Seattle, WA' has 2 total occupant(s)
+Adult occupant(s):
+	George, Brown, '345 3rd Blvd Apt 200, Seattle, WA', 18
+	Helen, Brown, '345 3rd Blvd Apt 200, Seattle, WA', 18
+
+Household: '1234 5th Ave Apt 101 Building B, New York, NY' has 1 total occupant(s)
+Adult occupant(s):
+	John, Smith, '1234 5th Ave Apt 101 Building B, New York, NY', 35
+
+Household: '789 Elm St Suite 200, Los Angeles, CA' has 1 total occupant(s)
+Adult occupant(s):
+	Alice, Johnson, '789 Elm St Suite 200, Los Angeles, CA', 28
+
+Household: '101 Main St Unit A, Chicago, IL' has 1 total occupant(s)
+Adult occupant(s):
+	Michael, Brown, '101 Main St Unit A, Chicago, IL', 42
+
+Household: '456 St John's St Suite B (2nd Floor), San Francisco, CA' has 1 total occupant(s)
+Adult occupant(s):
+	Sarah, Williams, '456 St John's St Suite B (2nd Floor), San Francisco, CA', 37
+
+Household: '234 Oak Ave Floor 3, Seattle, WA' has 1 total occupant(s)
+Adult occupant(s):
+	Robert, Davis, '234 Oak Ave Floor 3, Seattle, WA', 50
+

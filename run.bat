@@ -1,0 +1,1 @@
+java -jar HouseholdCalculator.jar input.csv
